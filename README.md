@@ -7,6 +7,8 @@
 
 (2018) [CRSeek: a Python module for facilitating complicated CRISPR design strategies](https://peerj.com/preprints/27094.pdf)
 
+(2014) [A Brief History of Synthetic Biologoy](https://collinslab.mit.edu/files/nrm_cameron.pdf)
+
 ### Notes 
 
 [CRSeek: a Python module for facilitating complicated CRISPR design strategies](https://peerj.com/preprints/27094.pdf)
