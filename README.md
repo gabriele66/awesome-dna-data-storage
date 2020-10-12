@@ -5,6 +5,8 @@
 
 (2020) [Decoding DNA Data Storage for Investment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521213/)
 
+(2020) [Content-Based Similarity Search in Large-Scale DNA Data Storage Systems](https://www.biorxiv.org/content/10.1101/2020.05.25.115477v1.full.pdf)
+
 (2020) [DNA Punch Cards for Storing Data on Native DNA Sequences via Enzymatic Nicking](https://www.nature.com/articles/s41467-020-15588-z)
 
 (2020) [Dynamic and Scalable DNA Based Information Storage](https://www.nature.com/articles/s41467-020-16797-2)
@@ -18,6 +20,8 @@
 (2018) [CRSeek: a Python module for facilitating complicated CRISPR design strategies](https://peerj.com/preprints/27094.pdf)
 
 (2017) [Addressable Configurations of DNA Nanostructures for Rewritable Memory](https://academic.oup.com/nar/article/45/19/11459/4097620)
+
+(2017) [Clustering Billions of Reads for DNA Data Storage](http://papers.nips.cc/paper/6928-clustering-billions-of-reads-for-dna-data-storage.pdf)
 
 (2015) [A Rewritable, Random-Access DNA-Based Storage System](https://www.nature.com/articles/srep14138)
 
