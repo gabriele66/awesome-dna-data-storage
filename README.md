@@ -3,6 +3,8 @@
 
 ## References
 
+(2020) [Decoding DNA Data Storage for Investment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7521213/)
+
 (2020) [DNA Punch Cards for Storing Data on Native DNA Sequences via Enzymatic Nicking](https://www.nature.com/articles/s41467-020-15588-z)
 
 (2020) [Dynamic and Scalable DNA Based Information Storage](https://www.nature.com/articles/s41467-020-16797-2)
