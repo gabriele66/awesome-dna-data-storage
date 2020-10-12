@@ -1,4 +1,4 @@
-# Synthetic Biology Artificially Deep
+# Awesome DNA Data Storage
 
 
 ## References
