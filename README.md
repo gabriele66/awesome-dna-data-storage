@@ -3,6 +3,8 @@
 
 ## References
 
+(2019) [Opportunities at the Intersection of Synthetic Biology, Machine Learning and Automation](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.8b00540)
+
 (2018) [CRSeek: a Python module for facilitating complicated CRISPR design strategies](https://peerj.com/preprints/27094.pdf)
 
 ### Notes 
