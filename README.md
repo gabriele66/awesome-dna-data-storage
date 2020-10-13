@@ -31,6 +31,8 @@
 
 (2013) [Toward practical high-capacity low-maintenance storage of digital information in synthesised DNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672958/)
 
+(2012) [Next Generation Digital Information Storage in DNA](https://www.researchgate.net/profile/George_Church/publication/230698422_Next-Generation_Digital_Information_Storage_in_DNA/links/550c03e60cf2b2450b4e5103/Next-Generation-Digital-Information-Storage-in-DNA.pdf)
+
 (2001) [Long Term Storage of Information in DNA](https://www.researchgate.net/publication/11792112_Long-term_storage_of_information_in_DNA)
 
 ### Notes 
