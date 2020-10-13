@@ -29,6 +29,10 @@
 
 (2014) [A Brief History of Synthetic Biologoy](https://collinslab.mit.edu/files/nrm_cameron.pdf)
 
+(2013) [Toward practical high-capacity low-maintenance storage of digital information in synthesised DNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672958/)
+
+(2001) [Long Term Storage of Information in DNA](https://www.researchgate.net/publication/11792112_Long-term_storage_of_information_in_DNA)
+
 ### Notes 
 
 [CRSeek: a Python module for facilitating complicated CRISPR design strategies](https://peerj.com/preprints/27094.pdf)
