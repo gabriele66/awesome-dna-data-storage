@@ -11,7 +11,7 @@
 
 (2020) [Dynamic and Scalable DNA Based Information Storage](https://www.nature.com/articles/s41467-020-16797-2)
 
-(2020) [DNA Punch Cards: Encoding Data on Native DNA Sequences via Topological Modifications](https://www.biorxiv.org/content/10.1101/672394v3.full.pdf)
+(2019) [DNA Punch Cards: Encoding Data on Native DNA Sequences via Topological Modifications](https://www.biorxiv.org/content/10.1101/672394v3.full.pdf)
 
 (2019) [Opportunities at the Intersection of Synthetic Biology, Machine Learning and Automation](https://pubs.acs.org/doi/pdf/10.1021/acssynbio.8b00540)
 
